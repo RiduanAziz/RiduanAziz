@@ -1,7 +1,7 @@
 <!-- 🌌 Custom Futuristic Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Riduan%20Aziz%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 <h1 align="center">👋 Hey there, I'm <span style="color:#FF6F61;">Riduan Aziz</span></h1>
-<h3 align="center">🚀 Tech Specialist | Data Scientist | Aspiring AI Engineer</h3>
+<h3 align="center">🚀 CSE Student | Data Science Enthusiast | Aspiring AI Engineer</h3>
 
 <p align="center"><b>“Crafting Intelligence through Code & Data”</b></p>
 
