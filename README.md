@@ -5,7 +5,9 @@
 
 <p align="center"><b>“Crafting Intelligence through Code & Data”</b></p>
 
-<img align="right" alt="coding" width="370" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 ---
 
@@ -18,7 +20,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aziz.riduan9)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RiduanAziz6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riduan-aziz/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riduan.aziz46@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=About.me&logoColor=white)](https://riduan-aziz.vercel.app/)
