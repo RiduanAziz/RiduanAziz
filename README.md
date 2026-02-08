@@ -1,5 +1,5 @@
 <!-- 🌌 Custom Futuristic Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Riduan%20Aziz%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" alt="Riduan Aziz Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Riduan%20Aziz%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 <h1 align="center">👋 Hey there, I'm <span style="color:#FF6F61;">Riduan Aziz</span></h1>
 <h3 align="center">🚀 CSE Student | Data Science Enthusiast | Aspiring AI Engineer</h3>
 
@@ -20,7 +20,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RiduanAziz6)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/RiduanAziz6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riduan-aziz/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riduan.aziz46@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=About.me&logoColor=white)](https://riduan-aziz.vercel.app/)
@@ -48,7 +48,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
@@ -61,7 +61,7 @@
 
 ### 🌐 Web & Deployment  
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -91,9 +91,9 @@
 
 <div align="center">
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=RiduanAziz&show_icons=true&theme=dracula&hide_border=false"/>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiduanAziz&theme=dracula&layout=compact&hide_border=false"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=RiduanAziz&theme=dracula&hide_border=false" />
+<img height="150px" alt="Riduan Aziz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RiduanAziz&show_icons=true&theme=dracula&hide_border=false"/>
+<img height="170px" alt="Riduan Aziz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiduanAziz&theme=dracula&layout=compact&hide_border=false"/>
+<img alt="Riduan Aziz's GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=RiduanAziz&theme=dracula&hide_border=false" />
 
 </div>
 
@@ -129,6 +129,6 @@
 ---
 
 <h3 align="center">🌟 Keep Coding • Keep Learning • Keep Building 🌟</h3>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+<img width="100%" alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 
 <!-- Built by Riduan Aziz | Enhanced using GPRM (https://gprm.itsvg.in) -->
