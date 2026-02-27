@@ -26,86 +26,80 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=About.me&logoColor=white)](https://riduan-aziz.vercel.app/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/riduanaziz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/RiduanAziz/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/riduan_aziz)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/riduan_aziz)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/riduan_aziz)
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 
-### 🧩 Languages  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 Data Science & AI  
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+### 🤖 Data Science / AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗄️ Databases & Cloud  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 🗄️ Databases / Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-### 🌐 Web & Deployment  
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🚀 Tools / Deployment
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🏆 Certifications  
-🎓 Python for Machine Learning — *Coursera*  
-📊 Data Analytics with Pandas & NumPy — *Kaggle*  
-🧠 Deep Learning Fundamentals — *DeepLearning.AI*  
-💻 Problem Solving (C++) — *HackerRank*  
-
----
-
-## 🚀 Featured Projects  
+## 🚀 Featured Projects & Repositories
 
 | 🚀 Project | 📝 Description | 🧠 Tech Stack |
 |:-----------|:----------------|:--------------|
-| 📦 **Inventory Management System** | Web-based inventory solution for tracking, managing, and updating stock in real-time | `PHP`, `JavaScript`, `HTML`, `CSS`, `MySQL` |
-| 🚆 **Railway Reservation System** | Application for ticket booking, schedule management, and passenger data handling | `SQL`, `C#` |
-| ⏰ **Digital Clock (Arduino)** | Hardware-based digital clock built using Arduino and C++ with LED display | `C++`, `Arduino` |
-
+| 🤖 **[Multi-Agent-MCP-RAG](https://github.com/RiduanAziz/Multi-Agent-MCP-RAG)** | Autonomous AI Research Assistant using Multi-Agent RAG with Model Context Protocol (MCP) — *Undergraduate Thesis Project* | `Python`, `AI/RAG` |
+| 📦 **[DataSetSanity](https://github.com/RiduanAziz/DataSetSanity-PyPi-Package)** | Lightweight Python tool (PyPI package) for sanity checks on ML datasets—detecting missing values, class imbalance, and data leakage. | `Python`, `Jupyter` |
+| 🎙️ **[Adury Voice Assistant](https://github.com/RiduanAziz/Adury-Voice-Assistant-System)** | Interactive voice assistant system built for task automation and seamless user interaction. | `Python` |
+| 💰 **[SpendWise Tracker](https://github.com/RiduanAziz/SpendWise-Smart-Expense-Tracker)** | Smart expense tracking application for personal finance management. | `Java`, `HTML` |
+| 💻 **[Computer Graphics Lab](https://github.com/RiduanAziz/Computer-Graphics-Lab)** | Implementations of fundamental computer graphics algorithms and concepts. | `C++` |
 
 ---
 
-## 📊 GitHub Analytics  
+## 🏆 Certifications (Curated)
+- 🎓 Python for Machine Learning — *Coursera*
+- 📊 Data Analytics with Pandas & NumPy — *Kaggle*
+- 🧠 Deep Learning Fundamentals — *DeepLearning.AI*
+- 💻 Problem Solving (C++) — *HackerRank*
 
+---
+
+## 📊 GitHub Analytics
 <div align="center">
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=RiduanAziz&show_icons=true&theme=dracula&hide_border=false"/>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiduanAziz&theme=dracula&layout=compact&hide_border=false"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=RiduanAziz&theme=dracula&hide_border=false" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=RiduanAziz&show_icons=true&theme=dracula&hide_border=false" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiduanAziz&theme=dracula&layout=compact&hide_border=false" />
+<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=RiduanAziz&theme=dracula&hide_border=false" />
 
 </div>
 
 ---
 
-## 🧠 Currently Exploring:
-
-- Deep Learning with **TensorFlow** & **PyTorch**  
-- **C# .NET** for backend and AI integrations  
-- Model deployment with **FastAPI** & **Docker**  
-- Cloud ML pipelines (**GCP / AWS**)  
-- Generative AI & **Computer Vision** applications  
+## 🧠 Currently Exploring
+- Deep Learning with **TensorFlow** & **PyTorch**
+- **C# .NET** for backend and AI integrations
+- Model deployment with **FastAPI** & **Docker**
+- Cloud ML pipelines (**GCP / AWS**)
+- Generative AI + **Computer Vision** apps
 
 ---
 
